@@ -51,7 +51,7 @@ QuizBot/
  ├── fix_database.py
  ├── test_streamlit.py
  ├── requirements.txt
- └── README.md
+ 
 ```
 
 ---
